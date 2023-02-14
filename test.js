@@ -3,4 +3,6 @@ alert ("Привіт!")
 
 blablabla
 
-work p1
+work p3
+
+from simply test
