@@ -3,4 +3,5 @@ alert ("Привіт!")
 
 blablabla
 
-work p1
+work p2
+edit p1 to p2:
